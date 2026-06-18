@@ -26,25 +26,6 @@ tic-tac-toe/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/anujkush2431393/tic-tac-toe-python
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd tic-tac-toe
-```
-
-### 3. Run the Python file
-
-```bash
-python tictactoegame.py
-```
 
 ## 🎯 How to Play
 
