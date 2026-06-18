@@ -31,7 +31,7 @@ tic-tac-toe/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/anujkush2431393/tic-tac-toe-python
 ```
 
 ### 2. Navigate to the project folder
